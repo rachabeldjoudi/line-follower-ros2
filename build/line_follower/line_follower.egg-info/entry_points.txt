@@ -1,4 +1,0 @@
-[console_scripts]
-fake_camera = line_follower.fake_camera:main
-line_detector = line_follower.line_detector:main
-robot_sim = line_follower.robot_sim:main
