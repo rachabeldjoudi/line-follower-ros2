@@ -1,0 +1,23 @@
+[1.680s] Invoking command in '/home/racha/line_follower_ws/src/line_follower': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/racha/line_follower_ws/build/line_follower/build install --record /home/racha/line_follower_ws/build/line_follower/install.log --single-version-externally-managed install_data
+[1.992s] running egg_info
+[2.012s] writing ../../build/line_follower/line_follower.egg-info/PKG-INFO
+[2.015s] writing dependency_links to ../../build/line_follower/line_follower.egg-info/dependency_links.txt
+[2.016s] writing entry points to ../../build/line_follower/line_follower.egg-info/entry_points.txt
+[2.016s] writing requirements to ../../build/line_follower/line_follower.egg-info/requires.txt
+[2.017s] writing top-level names to ../../build/line_follower/line_follower.egg-info/top_level.txt
+[2.060s] reading manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[2.063s] writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[2.064s] running build
+[2.064s] running build_py
+[2.064s] running install
+[2.072s] running install_lib
+[2.095s] running install_data
+[2.095s] running install_egg_info
+[2.117s] removing '/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower-0.0.0-py3.12.egg-info' (and everything under it)
+[2.120s] Copying ../../build/line_follower/line_follower.egg-info to /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower-0.0.0-py3.12.egg-info
+[2.122s] running install_scripts
+[2.265s] Installing fake_camera script to /home/racha/line_follower_ws/install/line_follower/lib/line_follower
+[2.268s] Installing line_detector script to /home/racha/line_follower_ws/install/line_follower/lib/line_follower
+[2.268s] Installing robot_sim script to /home/racha/line_follower_ws/install/line_follower/lib/line_follower
+[2.269s] writing list of installed files to '/home/racha/line_follower_ws/build/line_follower/install.log'
+[2.306s] Invoked command in '/home/racha/line_follower_ws/src/line_follower' returned '0': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/racha/line_follower_ws/build/line_follower/build install --record /home/racha/line_follower_ws/build/line_follower/install.log --single-version-externally-managed install_data

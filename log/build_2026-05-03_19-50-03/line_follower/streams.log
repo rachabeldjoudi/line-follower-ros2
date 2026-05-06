@@ -1,0 +1,40 @@
+[1.926s] Invoking command in '/home/racha/line_follower_ws/build/line_follower': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/racha/line_follower_ws/build/line_follower/build
+[2.297s] running develop
+[2.530s] Removing /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line-follower.egg-link (link to .)
+[2.576s] Invoked command in '/home/racha/line_follower_ws/build/line_follower' returned '0': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/racha/line_follower_ws/build/line_follower/build
+[2.577s] Invoking command in '/home/racha/line_follower_ws/src/line_follower': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/racha/line_follower_ws/build/line_follower/build install --record /home/racha/line_follower_ws/build/line_follower/install.log --single-version-externally-managed install_data --force
+[2.901s] running egg_info
+[2.923s] writing ../../build/line_follower/line_follower.egg-info/PKG-INFO
+[2.924s] writing dependency_links to ../../build/line_follower/line_follower.egg-info/dependency_links.txt
+[2.924s] writing entry points to ../../build/line_follower/line_follower.egg-info/entry_points.txt
+[2.924s] writing requirements to ../../build/line_follower/line_follower.egg-info/requires.txt
+[2.926s] writing top-level names to ../../build/line_follower/line_follower.egg-info/top_level.txt
+[2.971s] reading manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[2.974s] writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[2.975s] running build
+[2.975s] running build_py
+[2.975s] creating /home/racha/line_follower_ws/build/line_follower/build
+[2.976s] creating /home/racha/line_follower_ws/build/line_follower/build/lib
+[2.976s] creating /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower
+[2.977s] copying line_follower/fake_camera.py -> /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower
+[2.978s] copying line_follower/line_detector.py -> /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower
+[2.980s] copying line_follower/__init__.py -> /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower
+[2.980s] running install
+[2.988s] running install_lib
+[3.009s] creating /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower
+[3.010s] copying /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower/fake_camera.py -> /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower
+[3.010s] copying /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower/line_detector.py -> /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower
+[3.010s] copying /home/racha/line_follower_ws/build/line_follower/build/lib/line_follower/__init__.py -> /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower
+[3.011s] byte-compiling /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower/fake_camera.py to fake_camera.cpython-312.pyc
+[3.014s] byte-compiling /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower/line_detector.py to line_detector.cpython-312.pyc
+[3.015s] byte-compiling /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower/__init__.py to __init__.cpython-312.pyc
+[3.016s] running install_data
+[3.016s] copying resource/line_follower -> /home/racha/line_follower_ws/install/line_follower/share/ament_index/resource_index/packages
+[3.019s] copying package.xml -> /home/racha/line_follower_ws/install/line_follower/share/line_follower
+[3.021s] running install_egg_info
+[3.052s] Copying ../../build/line_follower/line_follower.egg-info to /home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages/line_follower-0.0.0-py3.12.egg-info
+[3.054s] running install_scripts
+[3.207s] Installing fake_camera script to /home/racha/line_follower_ws/install/line_follower/lib/line_follower
+[3.208s] Installing line_detector script to /home/racha/line_follower_ws/install/line_follower/lib/line_follower
+[3.208s] writing list of installed files to '/home/racha/line_follower_ws/build/line_follower/install.log'
+[3.250s] Invoked command in '/home/racha/line_follower_ws/src/line_follower' returned '0': PYTHONPATH=/home/racha/line_follower_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/racha/line_follower_ws/install/line_follower/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/racha/line_follower_ws/build/line_follower/build install --record /home/racha/line_follower_ws/build/line_follower/install.log --single-version-externally-managed install_data --force
